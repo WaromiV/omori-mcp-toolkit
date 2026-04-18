@@ -1,4 +1,5 @@
 # OMORI MCP Toolkit
+## Allows any agent to play omori(mod + mcp setup needed)
 <img width="1280" height="1051" alt="image" src="https://github.com/user-attachments/assets/e4c2211c-3666-459f-914d-673215e03be1" />
 
 A lightweight MCP server for driving and testing OMORI through the in-game `omori_mcp` bridge.
